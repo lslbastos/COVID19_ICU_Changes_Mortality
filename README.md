@@ -1,6 +1,6 @@
 # Evolving changes in mortality of 13,301 critically ill adult patients with COVID-19 over 8 months
 
-Data, code and results from the reserach paper: "Evolving changes in mortality of 13,301 critically ill adult patients with COVID-19 over 8 months"
+Code and results from the research paper: "Evolving changes in mortality of 13,301 critically ill adult patients with COVID-19 over 8 months"
 
 Authors: Pedro Kurtz, Leonardo S. L. Bastos (lslbastos), Leila F. Dantas, Fernando G. Zampieri, Marcio Soares, Silvio Hamacher, Jorge I. F. Salluh & Fernando A. Bozza 
 
