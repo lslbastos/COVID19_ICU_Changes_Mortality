@@ -2,7 +2,7 @@
 
 Code and results from the research paper: "Evolving changes in mortality of 13,301 critically ill adult patients with COVID-19 over 8 months"
 
-Authors: Pedro Kurtz([@pedrokurtz78](https://twitter.com/pedrokurtz78)), Leonardo S. L. Bastos ([@lslbastos](https://twitter.com/lslbastos) ), Leila F. Dantas, Fernando G. Zampieri ([@f_g_zampieri](https://twitter.com/f_g_zampieri) ), Marcio Soares, Silvio Hamacher, Jorge I. F. Salluh ([@JSalluh](https://twitter.com/JSalluh) ) & Fernando A. Bozza ([@fernando_bozza](https://twitter.com/fernando_bozza) )
+Authors: Pedro Kurtz ([@pedrokurtz78](https://twitter.com/pedrokurtz78)), Leonardo S. L. Bastos ([@lslbastos](https://twitter.com/lslbastos)), Leila F. Dantas, Fernando G. Zampieri ([@f_g_zampieri](https://twitter.com/f_g_zampieri)), Marcio Soares, Silvio Hamacher, Jorge I. F. Salluh ([@JSalluh](https://twitter.com/JSalluh)) & Fernando A. Bozza ([@fernando_bozza](https://twitter.com/fernando_bozza))
 
 Published at: Intensive Care Medicine
 
