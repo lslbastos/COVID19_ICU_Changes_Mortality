@@ -8,6 +8,6 @@ Published at: Intensive Care Medicine
 
 URL: https://link.springer.com/article/10.1007/s00134-021-06388-0
 
-DOI: https://doi.org/10.1007/s00134-021-06388-0
+DOI: [10.1007/s00134-021-06388-0](https://doi.org/10.1007/s00134-021-06388-0)
 
 Date of publication: April 14, 2021
